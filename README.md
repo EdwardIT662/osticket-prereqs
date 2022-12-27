@@ -40,8 +40,7 @@ I am turning on the Internet Information Services feature.
 <img src="https://i.imgur.com/L1E4ekN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installing Window Platform Installer and dependencies.
-  <p>
+Installing Window Platform Installer and dependencies such as: MySQL 5.5, all simple versions of x86 PHP up until 7.3, PHP manager 1.5.0 (for IIS 10), and Microsoft C++ 2009 redistributable package
 <img src="https://i.imgur.com/83VkMjG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
