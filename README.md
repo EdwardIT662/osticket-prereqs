@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Install/Enable IIS in Windows
 - Install Web Platform Installer
-- Item 3
+- Install MySQL
 - Item 4
 - Item 5
 
